@@ -3,7 +3,6 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp2.1</TargetFramework>
-    <RootNamespace>Find_fourth_digit_in_number</RootNamespace>
   </PropertyGroup>
 
 </Project>
